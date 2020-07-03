@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://paulopinto.xyz/"
+baseurl = "https://paulopinto.xyz/"
 languageCode = "en-us"
 title = "Guimarães iPhonegraph Project"
 theme = "hugrid"
