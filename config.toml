@@ -13,7 +13,7 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "Guimarães iPhonegraph Project"
+    title = "~/GIP>Guimarães iPhonegraph Project"
     subtitle = "A glimpse of a UNESCO Cultural Heritage City by Paulo Pinto"
     author = "Paulo Pinto"
     description = "Guimarães iPhonegraph Project."
