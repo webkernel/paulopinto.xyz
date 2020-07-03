@@ -1,0 +1,32 @@
+# Site settings
+baseurl = "http://paulopinto.xyz"
+languageCode = "en-us"
+title = "Guimarães iPhonegraph Project"
+theme = "hugrid"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-XXXXXXXX-Y"
+
+contentdir = "content"
+datadir = "data"
+layoutdir = "layouts"
+publishdir = "public"
+
+[params]
+    # Meta
+    title = "Guimarães iPhonegraph Project"
+    subtitle = "A glimpse of a UNESCO Cultural Heritage City by Paulo Pinto"
+    author = "Pavel Kanyshev"
+    description = "Guimarães iPhonegraph Project."
+    keywords = "Guimarães, Portugal, photography, portfolio, iphonegraph"
+
+    # Body background color
+    bodybgcolor = "#f9f9f9"
+
+    # Preview container button text
+    buttontext = "Download"
+
+    # Footer text
+    footertext = "Paulo Pinto - 2020"
+
+    # add extra-css
+    # custom_css = ['css/extra1.css', 'css/extra2.css']
