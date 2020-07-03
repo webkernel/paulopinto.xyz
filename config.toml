@@ -15,7 +15,7 @@ publishdir = "public"
     # Meta
     title = "Guimarães iPhonegraph Project"
     subtitle = "A glimpse of a UNESCO Cultural Heritage City by Paulo Pinto"
-    author = "Pavel Kanyshev"
+    author = "Paulo Pinto"
     description = "Guimarães iPhonegraph Project."
     keywords = "Guimarães, Portugal, photography, portfolio, iphonegraph"
 
