@@ -6,18 +6,20 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Welcome! My name is PAULO PINTO.
-
-Philosophy, History of Art, Aesthetics, Cyberculture, Literature, Comics, Photography, Music, Astronomy, Amateur Radio, among other topics.
+Welcome! My name is Paulo Pinto.
 
 On this site, you will find some material that I wanted to make available online.
 
 ## Research Interest
 
-Cyberculture
-Philosophy
-Photography
+Cyberculture  
+Hamradio  
+Philosophy  
+Photography  
 
 ## Webpages
 
+[paulopinto.org](https://paulopinto.org)
 [paulopinto.page](https://paulopinto.page)
+[meteo.paulopinto.org](https://meteo.paulopinto.org)
+[radiogeek.xyz](https://radiogeek.xyz)
