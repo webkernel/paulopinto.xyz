@@ -22,3 +22,7 @@ Photography
 [paulopinto.page](https://paulopinto.page)  
 [meteo.paulopinto.org](https://meteo.paulopinto.org)  
 [radiogeek.xyz](https://radiogeek.xyz)  
+
+## Blog
+
+[blog.paulopinto.xyz (Portuguese)](https://blog.paulopinto.xyz)    
