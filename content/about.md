@@ -6,9 +6,8 @@ title = "About"
 
 {{< figure class="avatar" src="/avatar.jpg" >}}
 
-Welcome! My name is Paulo Pinto.
-
-On this site, you will find some material that I wanted to make available online.
+Paulo Pinto  
+Guimarães, Portugal  
 
 ## Research Interest
 
