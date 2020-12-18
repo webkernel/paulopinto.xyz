@@ -1,17 +1,17 @@
-name = "Hugrid"
-license = "MIT License" #original Codrops Lisense is here http://tympanus.net/codrops/licensing/
-licenselink = "//github.com/aerohub/hugrid/blob/master/LICENSE.md"
-description = "A simple grid theme for Hugo. A kind of boilerplate to perform anyone or anything quickly."
-homepage = "//github.com/aerohub/hugrid"
-tags = ["responsive", "grid", "portfolio", "cards", "simple", "collections", "google analytics"]
-min_version = 0.15
+name = "Researcher"
+license = "GPL-3.0"
+licenselink = "https://github.com/ojroques/hugo-researcher/blob/master/LICENSE"
+description = "A simple monospaced resume theme for Hugo."
+tags = ["blog", "bootstrap", "clean", "minimal", "personal", "responsive", "resume", "simple"]
+features = ["bootstrap", "responsive", "simple"]
+homepage = "https://github.com/ojroques/hugo-researcher"
+min_version = "0.74.3"
 
 [author]
-  name = "Pavel Kanyshev"
-  homepage = "//github.com/aerohub/hugrid"
+  name = "Olivier Roques"
+  homepage = "https://oroques.dev/"
 
-# If porting an existing theme
 [original]
-  name = "Codrops' Thumbnail Grid with Expanding Preview"
-  homepage = "http://tympanus.net/codrops/2013/03/19/thumbnail-grid-with-expanding-preview/"
-  repo = "//github.com/codrops/ThumbnailGridExpandingPreview"
+  author = "Ankit Sultana"
+  homepage = "https://github.com/ankitsultana"
+  repo = "https://github.com/ankitsultana/researcher"
