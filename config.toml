@@ -1,6 +1,6 @@
 title = "Researcher"
-baseURL = "https://example.com"
-theme = "researcher"
+baseURL = "https://paulopinto.xyz"
+theme = "hugo-researcher"
 disableKinds = ["taxonomy", "term"]
 enableEmoji = true
 math = false          # enable KaTeX (https://katex.org/) globally
