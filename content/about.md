@@ -19,7 +19,7 @@ Photography
 
 ## Webpages
 
-[paulopinto.org](https://paulopinto.org)
-[paulopinto.page](https://paulopinto.page)
-[meteo.paulopinto.org](https://meteo.paulopinto.org)
-[radiogeek.xyz](https://radiogeek.xyz)
+[paulopinto.org](https://paulopinto.org)  
+[paulopinto.page](https://paulopinto.page)  
+[meteo.paulopinto.org](https://meteo.paulopinto.org)  
+[radiogeek.xyz](https://radiogeek.xyz)  
