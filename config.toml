@@ -1,4 +1,4 @@
-title = "Researcher"
+title = "Paulo Pinto dot XYZ"
 baseURL = "https://paulopinto.xyz"
 theme = "hugo-researcher"
 disableKinds = ["taxonomy", "term"]
