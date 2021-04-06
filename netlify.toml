@@ -31,6 +31,6 @@ HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
   from = "https://paulopinto.xyz/*"
-  to = "https://publish.obsidian.md/paulopinto"
+  to = "https://publish.obsidian.md/paulopinto:splat"
   status = 200
   force = true
