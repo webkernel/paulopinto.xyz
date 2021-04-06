@@ -29,3 +29,8 @@ HUGO_VERSION = "ç"
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
 
+[[redirects]]
+  from = "https://paulopinto.xyz/*"
+  to = "https://publish.obsidian.md/serve?url=paulopinto.xyz:splat"
+  status = 200
+  force = true
